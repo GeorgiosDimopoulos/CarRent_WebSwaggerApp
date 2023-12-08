@@ -1,2 +1,2 @@
 # uefaRanking
-application which calculates the European countries points (UEFA coefficients based in teams results)
+an application which set Car renting and calculates distances from different available stations
